@@ -7,7 +7,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hello world!");
 
         Main main = new Main();
         System.out.println(main.isBigger(10, 5));
